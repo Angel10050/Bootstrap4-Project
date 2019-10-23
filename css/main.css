@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Mali&display=swap');
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: rgba(208, 172, 246, 0.507);
+}
+h1,h2,h3{
+    font-family: 'Indie Flower', cursive;
+
+}
+
+h3{
+    font-size: 50px;
+}
+p{
+    font-family: 'Mali', cursive;
+    font-size: 20px;
+  }
+header{
+   background-image: url(http://www.fondosni.com/images/2012-09-22/Fondo%20azul%20con%20rosa%20y%20naranja-768139.jpg);
+   background:cover;
+}
+header h1{
+    color:  #b6f4ffe1;
+}
+.content-fluid h2{
+    padding: 50px 0 40px 0;
+}
+.content-fluid .card-text{
+    padding: 10px;
+}
+.card{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+section{
+    background:lightyellow;
+}
+.primera{
+    width: 400px;
+}
+.justify-content-center{
+    width: 100vw;
+}
